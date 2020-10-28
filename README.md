@@ -10,3 +10,5 @@ My expertise 🔥
 Languages: Python, SQL, HTML, CSS.
 
 Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib,PyTorch, Keras, NLTK, TensorFlow.
+
+Data Analysis: Exploratory Data Analysis, Natural Language Processing, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
